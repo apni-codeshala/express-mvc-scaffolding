@@ -1,0 +1,23 @@
+{
+  "name": "express-mvc-scaffolding",
+  "version": "1.0.0",
+  "description": "This package create a basic backend mvc folder structure just by writing one command in terminal",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mvcscaffold" : "./src/index.js"
+  },
+  "keywords": [
+    "Express",
+    "Scaffolding",
+    "MVC",
+    "Template",
+    "Backend",
+    "Package"
+  ],
+  "author": "Abhishek Patel",
+  "license": "ISC"
+}
