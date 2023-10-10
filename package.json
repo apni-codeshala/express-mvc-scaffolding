@@ -1,6 +1,6 @@
 {
   "name": "express-mvc-scaffolding",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package create a basic backend mvc folder structure just by writing one command in terminal",
   "main": "index.js",
   "type": "commonjs",

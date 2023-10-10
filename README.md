@@ -28,3 +28,10 @@ After installing the package just write **mvcscaffold** in your terminal and run
 ```
 mvcscaffold
 ```
+
+### Folder structure:
+
+[![Folder Structure](https://i.postimg.cc/rps9YQRT/Screenshot-2023-10-11-011943.png)](https://postimg.cc/SX08nLG1)
+
+### Otuput:
+[![OUTPUT](https://i.postimg.cc/sgNW1y1F/Screenshot-2023-10-11-012008.png)](https://postimg.cc/PC1JFgmK)
